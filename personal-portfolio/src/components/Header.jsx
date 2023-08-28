@@ -10,9 +10,9 @@ function Header () {
                             <div className="header-section">
                                 <h2>Hello, I Am</h2>
                                 <h1>Hector Poggi</h1>
-                                <p>lorem loremloremlorem <br />loremloremlorem</p>
+                                <p>Junior <br />Web Developer</p>
                                 <div className="header__buttons">
-                                    <a href="header" className="btn btn-outline">
+                                    <a href="https://github.com/ryodan95" className="btn btn-outline">
                                         Hire Me
                                     </a>
                                 </div>

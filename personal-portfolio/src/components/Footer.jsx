@@ -4,10 +4,10 @@ import { FaGithub, FaLinkedin, FaInstagram, FaFacebookF } from "react-icons/fa";
 function Footer () {
 
     const socialLinks = {
-        github: "https://github.com/tu_usuario",
-        linkedin: "https://linkedin.com/in/tu_usuario",
-        instagram: "https://instagram.com/tu_usuario",
-        facebook: "https://facebook.com/tu_usuario",
+        github: "https://github.com/ryodan95",
+        linkedin: "https://www.linkedin.com/in/hector-poggi-04443524a/",
+        instagram: "https://www.instagram.com/ahre_poggi/",
+        facebook: "https://www.facebook.com/Ryodan.AkA.Poggi/",
       };
 
     return (

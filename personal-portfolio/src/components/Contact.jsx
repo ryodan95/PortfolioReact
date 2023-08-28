@@ -40,8 +40,8 @@ export const Contact = () => {
 
   const submitButtonStyles = {
     padding: '10px',
-    backgroundColor: '#4CAF50',
-    color: 'white',
+    backgroundColor: '#2a9d8f',
+    color: '#264653',
     border: 'none',
     borderRadius: '4px',
     cursor: 'pointer',
@@ -54,7 +54,7 @@ export const Contact = () => {
   };
 
   const h2 = {
-    color: "black",
+    color: "#264653",
     textAlign: "center",
   };
 

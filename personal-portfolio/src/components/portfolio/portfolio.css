@@ -23,7 +23,7 @@
 
 .portfolio li:hover,
 .portfolio li.active {
-    background-color: #6f34fe;
+    background-color: #264653;
     color: #fff;
     padding: 5px 10px;
 }
@@ -40,7 +40,7 @@
 }
 
 .left h2 {
-    color: #6f34fe;
+    color: #2a9d8f;
     margin-top: 1rem;
 }
 
@@ -56,7 +56,7 @@
 .portfolio .overlay h1 {
     margin: 0;
     font-size: 20px;
-    color: #6f34fe;
+    color: #264653;
 }
 
 .portfolio .overlay {

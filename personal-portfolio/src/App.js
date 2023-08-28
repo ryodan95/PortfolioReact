@@ -6,7 +6,7 @@ import About from "./components/About";
 import Services from './components/Services';
 import Price from "./components/Price";
 import Footer from './components/Footer';
-import React, { useEffect } from "react";
+
 import Contact from "./components/Contact";
 
 
